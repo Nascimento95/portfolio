@@ -1,0 +1,23 @@
+/* all page */
+h1{
+    font-family: "Gemunu";
+}
+/* header homepage */
+.header-1{
+    background-image: url(image/back-nav.jpg);
+}
+
+img{
+   padding-bottom: 5px;
+}
+/* section Bienvenue */
+
+
+
+
+
+
+/* page My works */
+.header-2{
+    background-image: url(image/project-header.jpg);
+}
